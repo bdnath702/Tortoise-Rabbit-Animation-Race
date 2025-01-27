@@ -15,3 +15,4 @@ Technologies Used:
 HTML5: For structuring the content.
 CSS3: For styling and animation.
 WebM: For lightweight and smooth video playback.
+![image alt](https://github.com/bdnath702/Tortoise-Rabbit-Animation-Race/blob/main/Screenshot%202025-01-27%20223042.png?raw=true)
