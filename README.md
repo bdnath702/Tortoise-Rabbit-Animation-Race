@@ -1,6 +1,6 @@
 # Tortoise-Rabbit-Animation-Race
 This project visualizes the classic fable of the "Tortoise and the Hare" using modern web development tools.  
-This project visualizes the classic fable of the "Tortoise and the Hare" using modern web development tools. It uses HTML, CSS, and WebM video animations to simulate a race between a tortoise and a rabbit. The animation demonstrates motion using CSS keyframes, cubic-bezier timing functions, and absolute positioning to create a fun and interactive visual.
+This project visualizes the classic fable of the "Tortoise and the Hare" using modern web development tools. It uses HTML, CSS, and WebM video animations to simulate a race between a tortoise and a rabbit. The animation demonstrates motion using CSS keyframes, cubic-bezier timing functions, and absolute positioning to create a fun and interactive visual
 
 The project includes:
 
