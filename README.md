@@ -7,7 +7,7 @@ The project includes
 Two animated characters (a tortoise and a rabbit) moving along a race track.
 A finish line with vertical black lines marking the endpoint of the race.
 Smooth and realistic motion behavior for both characters: the tortoise progresses steadily, while the rabbit moves fast but slows down, ultimately letting the tortoise win.
-Features:
+Features
 Custom Animations: Smooth motion using CSS keyframes and cubic-bezier timing functions.
 Responsive Design: Works seamlessly across devices with adjustable viewport settings.
 Lightweight Media: WebM videos ensure efficient loading and playback.
