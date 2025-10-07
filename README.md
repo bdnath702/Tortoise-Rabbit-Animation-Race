@@ -10,7 +10,7 @@ Smooth and realistic motion behavior for both characters: the tortoise progresse
 Features
 Custom Animations: Smooth motion using CSS keyframes and cubic-bezier timing functions.
 Responsive Design: Works seamlessly across devices with adjustable viewport settings.
-Lightweight Media: WebM videos ensure efficient loading and playback.
+Lightweight Media: WebM videos ensure efficient loading and playback
 Technologies Used:
 HTML5: For structuring the content
 CSS3: For styling and animation.
